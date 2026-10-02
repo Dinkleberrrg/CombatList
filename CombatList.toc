@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: |cff33ffccCombat|cffffffffList
+## Notes: Lists every mob your group is fighting, who it is attacking, click to target.
+## Author: Henry
+## Version: 1.0.0
+## OptionalDeps: pfUI, ShaguPlates
+## SavedVariablesPerCharacter: CombatList_config
+
+core.lua
+tracker.lua
+ui.lua
+slash.lua
